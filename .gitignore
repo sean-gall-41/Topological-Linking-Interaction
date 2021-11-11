@@ -1,0 +1,13 @@
+venv
+__pycache__/
+app/__pycache__/__init__.cpython-36.pyc
+app/__pycache__/alexander.cpython-36.pyc
+app/__pycache__/generate_binary_list.cpython-36.pyc
+app/__pycache__/generate_chain.cpython-36.pyc
+app/__pycache__/intersect_unit_test.cpython-36.pyc
+app/__pycache__/populate_alexander_matrix_unit_test.cpython-36.pyc
+app/__pycache__/pre_alexander_compile_unit_test.cpython-36.pyc
+app/__pycache__/projection.cpython-36.pyc
+app/__pycache__/routes.cpython-36.pyc
+.vscode
+app/static/images/
